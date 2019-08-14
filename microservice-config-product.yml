@@ -2,6 +2,8 @@
 spring:
   profiles:
     active: dev # 激活开发环境配置
+emp:
+  name: zhangsan
 ---
 server:
   port: 8001
